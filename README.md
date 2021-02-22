@@ -8,6 +8,7 @@ A website that offers fitness training services.
 
 - HTML
 - CSS
+- Love
 
 ## Website
 
